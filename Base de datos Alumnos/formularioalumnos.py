@@ -20,7 +20,7 @@ class FormularioAlumnos:
         self.borrado()
         self.modificar()
         self.anexo_Alumnos()
-        self.listar_dni
+        self.listar_dni()
         self.ventana1.iconbitmap('C:\\Users\\nico\\Desktop\\Proyecto\\Aplicaciones Gise\\Base de datos Alumnos\\logo.ico')
         self.cuaderno1.grid(column=0, row=0, padx=10, pady=10)
         self.ventana1.resizable(0,0)
