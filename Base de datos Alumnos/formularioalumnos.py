@@ -1,6 +1,4 @@
-from ast import Try
 import sqlite3
-from sre_parse import State
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox as mb
